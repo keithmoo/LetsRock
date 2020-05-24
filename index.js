@@ -16,7 +16,7 @@ function RPS(){
       <input type="radio" id="paper" name="Choice" value="paper">
       <label for="Choice2"><img src='paper.png' alt='DoNotPickMe'></label><br/>
       <input type="radio" id="scissors" name="Choice" value="scissors">
-      <label for="Choice3"><img src='scissors.png' alt='IAmPickingThis'></label><br/>
+      <label for="Choice3"><img src='Scissors.png' alt='IAmPickingThis'></label><br/>
       <button id="submitForm">Submit</button>
       </form>
     `
