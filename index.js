@@ -12,7 +12,7 @@ function RPS(){
       <form>
       <legend>Rock, Paper, Or Scissors?</legend><br/>
       <input type="radio" id="rock" name="Choice" value="rock">
-      <label for="Choice1"><img src='rock.png' alt='pickMe'></label><br/>
+      <label for="Choice1"><img src='Rock.png' alt='pickMe'></label><br/>
       <input type="radio" id="paper" name="Choice" value="paper">
       <label for="Choice2"><img src='paper.png' alt='DoNotPickMe'></label><br/>
       <input type="radio" id="scissors" name="Choice" value="scissors">
@@ -47,11 +47,11 @@ function victory() {
     `
     <p>You threw:</p>
     <div class='pick'>
-    <img src='rock.png' alt='yeahDude'>
+    <img src='Rock.png' alt='yeahDude'>
     </div>
     <p>Opponent threw:</p>
     <div class='scissorPick'>
-    <img src='scissors.png' alt='ISaidLetsRockAndPickedScissors'>
+    <img src='Scissors.png' alt='ISaidLetsRockAndPickedScissors'>
     </div>
     <div class='winner'>
     <h3>To The Victor Go The Spoils</h3>
@@ -85,11 +85,11 @@ function draw() {
     `
     <p>You threw:</p>
     <div class='pick'>
-    <img src='scissors.png' alt='doh'>
+    <img src='Scissors.png' alt='doh'>
     </div>
     <p>Opponent threw:</p>
     <div class='scissorPick'>
-    <img src='scissors.png' alt='ISaidLetsRockAndPickedScissors'>
+    <img src='Scissors.png' alt='ISaidLetsRockAndPickedScissors'>
     </div>
     <p>You really are me...</p>
     <button id='tryAgain'>Tie Breaker</button>
@@ -105,8 +105,8 @@ function fail() {
     <img src='paper.png' alt='whyyyyyyy'>
     </div>
     <p>Opponent threw:</p>
-    <div class='scissorPick'>
-    <img src='scissors.png' alt='ISaidLetsRockAndPickedScissors'>
+    <div class='ScissorPick'>
+    <img src='scissors.png' alt='ISaidLetsRockAndPickedcissors'>
     </div>
     <p>I sacrificed everything to have another chance through you.  You sure do make things 
     difficult.</p>
