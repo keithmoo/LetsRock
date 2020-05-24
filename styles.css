@@ -1,0 +1,14 @@
+form {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+}
+
+legend {
+  font-size: 22pt;
+}
+
+img {
+  height: 65px;
+  width: 65px;
+}
