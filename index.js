@@ -106,7 +106,7 @@ function fail() {
     </div>
     <p>Opponent threw:</p>
     <div class='ScissorPick'>
-    <img src='scissors.png' alt='ISaidLetsRockAndPickedcissors'>
+    <img src='Scissors.png' alt='ISaidLetsRockAndPickedcissors'>
     </div>
     <p>I sacrificed everything to have another chance through you.  You sure do make things 
     difficult.</p>
